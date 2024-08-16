@@ -4,7 +4,7 @@
 
 Examples:
 
-Input :  arr[] = {-3, 9, 8, 20, 17, 5, 1};
+Input :  arr[] = {-3, 9, 18, 20, 17, 5, 1};
          key = 20
 
 Output : Found at index 3
